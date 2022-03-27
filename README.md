@@ -9,7 +9,7 @@ Credit: [Novu](https://osu.ppy.sh/users/17561095)
 </a>
 
 <details>
-<summary>RadheRadheRadhe Menu</summary>
+<summary>Radhe Menu</summary>
 <img src="https://i.imgur.com/r643eJo.png" title="Menu Background">
 <img src="https://i.imgur.com/FYofVM4.png" title="Song Select">
 <img src="https://i.imgur.com/Zr8vdm8.png" title="Select Modes">
@@ -17,7 +17,7 @@ Credit: [Novu](https://osu.ppy.sh/users/17561095)
 </details>
 
 <details>
-<summary>RadheRadhe Gameplay</summary>
+<summary>Radhe Gameplay</summary>
 <img src="https://i.imgur.com/Y8h6vQg.png" title="Gameplay circles">
 <img src="https://i.imgur.com/wGkMQKn.png" title="Gameplay circles">
 </details>
@@ -29,7 +29,7 @@ Credit: [Novu](https://osu.ppy.sh/users/17561095)
 </details>
 
 <details>
-<summary>MarineSummer Skip & Section Screen</summary>
+<summary>Radhe Skip & Section Screen</summary>
 <img src="https://i.imgur.com/Xm2CQfw.png" title="Screen Skip">
 <img src="https://i.imgur.com/WqjN4ub.png" title="Screen Pass">
 <img src="https://i.imgur.com/JZwZE0U.png" title="Screen Fail">
