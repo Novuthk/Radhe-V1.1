@@ -9,7 +9,7 @@ Credit: [Novu](https://osu.ppy.sh/users/17561095)
 </a>
 
 <details>
-<summary>MarineSummer Menu</summary>
+<summary>RadheRadheRadhe Menu</summary>
 <img src="https://i.imgur.com/r643eJo.png" title="Menu Background">
 <img src="https://i.imgur.com/FYofVM4.png" title="Song Select">
 <img src="https://i.imgur.com/Zr8vdm8.png" title="Select Modes">
@@ -17,13 +17,13 @@ Credit: [Novu](https://osu.ppy.sh/users/17561095)
 </details>
 
 <details>
-<summary>MarineSummer Gameplay</summary>
+<summary>RadheRadhe Gameplay</summary>
 <img src="https://i.imgur.com/Y8h6vQg.png" title="Gameplay circles">
 <img src="https://i.imgur.com/wGkMQKn.png" title="Gameplay circles">
 </details>
 
 <details>
-<summary>MarineSummer Pause & Fail Screen</summary>
+<summary>Radhe Pause & Fail Screen</summary>
 <img src="https://i.imgur.com/RV1zxDf.png" title="Screen Pause">
 <img src="https://i.imgur.com/PkT5tsQ.png" title="Screen Fail">
 </details>
@@ -36,7 +36,7 @@ Credit: [Novu](https://osu.ppy.sh/users/17561095)
 </details>
 
 <details>
-<summary>MarineSummer Ranking Panel</summary>
+<summary>Radhe Ranking Panel</summary>
 <img src="https://i.imgur.com/jNIJzc2.png" title="Ranking Panel">
 <img src="https://i.imgur.com/1czkSjD.png" title="Ranking Panel">
 </details>
