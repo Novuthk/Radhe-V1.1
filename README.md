@@ -1,4 +1,4 @@
-## 《 Novu 》  « MarineSummer
+## 《 Novu 》  «  Radhe
 Credit: [Novu](https://osu.ppy.sh/users/17561095)
 
 ![]( https://i.imgur.com/dIZ16wN.png )
